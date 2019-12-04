@@ -2,8 +2,6 @@
 Advent of Code 2019: Day 3, task 1
 """
 
-import numpy as np
-
 X_MOVE = complex(1, 0)
 Y_MOVE = complex(0, 1)
 
